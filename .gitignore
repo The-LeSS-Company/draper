@@ -3,7 +3,6 @@
 .ruby-version
 .ruby-gemset
 .bundle
-Gemfile.lock
 pkg/*
 coverage.data
 coverage/*
